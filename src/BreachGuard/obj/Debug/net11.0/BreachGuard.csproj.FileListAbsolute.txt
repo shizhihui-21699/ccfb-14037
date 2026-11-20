@@ -1,0 +1,13 @@
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/obj/Debug/net11.0/BreachGuard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/obj/Debug/net11.0/BreachGuard.AssemblyInfoInputs.cache
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/obj/Debug/net11.0/BreachGuard.AssemblyInfo.cs
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/obj/Debug/net11.0/BreachGuard.csproj.CoreCompileInputs.cache
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/obj/Debug/net11.0/BreachGuard.sourcelink.json
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/bin/Debug/net11.0/BreachGuard.deps.json
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/bin/Debug/net11.0/BreachGuard.dll
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/bin/Debug/net11.0/BreachGuard.pdb
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/obj/Debug/net11.0/BreachGuard.dll
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/obj/Debug/net11.0/refint/BreachGuard.dll
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/obj/Debug/net11.0/BreachGuard.pdb
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/obj/Debug/net11.0/ref/BreachGuard.dll
+/Users/shizhihui/ccfb/runs/14037/workspace/src/BreachGuard/obj/Debug/net11.0/BreachGu.33D16E14.Up2Date
